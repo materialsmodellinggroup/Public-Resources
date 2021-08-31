@@ -1,1 +1,1 @@
-This directory contains the thesis of all BS/MS alumni of our group.
+This directory contains the thesis of all BS alumni of our group.
